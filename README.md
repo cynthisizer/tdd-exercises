@@ -1,5 +1,5 @@
-# tdd-exercises
-Starter Projects for developers to try out TDD.
+# TDD-Exercises
+## Starter Projects for developers to try out TDD
 
 Each module has a .txt with the details of the Kata example as well as it's own ReadMe with some helpful links about the languages & their unit-test libraries.  The Kata example that each follows is Roy Osherove's String calculator.  You can find more information about Osherove and his other Kata examples here:  http://osherove.com/
 
