@@ -21,3 +21,16 @@ To complete this exercise - follow the TDD Kata script in the project: calculato
 You're more than welcome to store your project on your own GIT site. If you haven't started one - this would be a great sample to put up to start collaborating with others.
 
 
+Helpful links:
+
+Maven:
+Installing - https://maven.apache.org/download.cgi
+Maven lifecycle - https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+Sample Maven Plugins - https://maven.apache.org/surefire/maven-surefire-plugin/
+
+Java:
+https://docs.oracle.com/javase/tutorial/java/javaOO/
+
+Junit:
+http://junit.org/ 
+
