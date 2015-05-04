@@ -26,9 +26,9 @@ You're more than welcome to store your project on your own GIT site. If you have
 [Maven lifecycle](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
 [Surefire Maven Plugin](https://maven.apache.org/surefire/maven-surefire-plugin/)
 
-Java:
+###Java:
 [Java Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/)
 
-Junit:
+###Junit:
 [Junit Doc](http://junit.org/) 
 
