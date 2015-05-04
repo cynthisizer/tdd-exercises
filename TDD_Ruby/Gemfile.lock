@@ -1,0 +1,11 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    test-unit (2.0.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  test-unit

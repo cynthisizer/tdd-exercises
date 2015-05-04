@@ -1,0 +1,4 @@
+
+gem 'test-unit', '3.0.9'
+gem 'power_assert', '0.2.3'
+
