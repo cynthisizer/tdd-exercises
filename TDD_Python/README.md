@@ -3,7 +3,7 @@
 
 This exercise is meant for those who have little to no TDD experience.  You are expected to know some programming - but never fear - TDD can be used to help you learn programming concepts that seem like magic.
 
-This base maven project has been setup with just enough tools and configurations to get you started. However - you are not bound to use the pom as-is; you should feel to explore and use whatever libraries your heart desires.
+This base project has been setup with just enough tools and configurations to get you started. However - you are not bound to use the pom as-is; you should feel to explore and use whatever libraries your heart desires.
 
 To complete this exercise - follow the TDD Kata script in the project: **calculator-tdd.txt**
 **You should follow the Red > Green > Amber flow:**
