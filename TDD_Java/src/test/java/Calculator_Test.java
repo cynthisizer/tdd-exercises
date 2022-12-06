@@ -1,6 +1,7 @@
 
 import org.junit.Assert;
 import org.junit.Before;
+import org.junit.Test;
 
 /**
  * Date: 1/12/15
@@ -21,6 +22,7 @@ public class Calculator_Test {
 
 
      //You probably should rename this test case
+    @Test
     public void firstTest(){
         Assert.assertEquals("Expecting: 3", 3, testCalculator.add("1,2"));
     }
